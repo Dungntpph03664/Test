@@ -1,5 +1,5 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
-
+<!-- -->
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
